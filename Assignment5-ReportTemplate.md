@@ -42,7 +42,7 @@ As every x value with a Laplace test value lower than -2 is a relevant part of t
 
 # How the team work/effort was divided and managed
 
-We worked together in the lab for both part 1 and part 2. Since some members could not run the necessary tools for part 1 we did a screen share so that everyone could get involved. In part 1, one person would be screen sharing them using the C-SFRAT program while the other remaining member would then be analyzing the models and noting any necessary observations. Part 2 had a similar format as well where one person screen shared and used the Excel Sheet. The other individuals for part 2 analyzed the models, noting any necessary observations, and ensuring every part had the correct models made. Lastly checked to see if both parts were correct in the lab and made changes if we felt needed to be made for the accuracy of the lab together. 
+We worked together in the lab for both part 1 and part 2. Since some members could not run the necessary tools for part 1 we did a screen share so that everyone could get involved. In part 1, one person would be screen sharing them using the C-SFRAT program while the other remaining members would then be analyzing the models and noting any necessary observations. Part 2 had a similar format as well where one person screen shared and used the Excel Sheet. The other individuals for part 2 analyzed the models, noting any necessary observations, and ensuring every part had the correct models made. Lastly checked to see if both parts were correct in the lab and made changes if we felt needed to be made for the accuracy of the lab together. 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
