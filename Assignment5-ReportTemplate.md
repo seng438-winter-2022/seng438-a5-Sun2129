@@ -47,3 +47,5 @@ We worked together in the lab for both part 1 and part 2. Since some members cou
 # Difficulties encountered, challenges overcome, and lessons learned
 
 # Comments/feedback on the lab itself
+
+The Lab document itself was extremely confusing. There were several key terminology issues as some terms were different from the ones used in the lab. The Programs/Tools are outdated and cannot be used within the lab for Part 1 was not accessible for Mac, so individuals had to watch a screen share to see how the program ran and worked. When asked about using other tools, there was no clear alternative to use as a replacement for C-SFRAT. There were also some difficulties when obtaining certain models as well. Using the Excel sheet was confusing and we had to have the TA show us how to use it which took a whole day as both the TA and our group were confused as to why our data was not producing the correct graphs as there was not a lot of information on steps on how to do it. The actual Excel sheet needs to be edited as it was in a Protected View therefore not allowing for us to change it as initially intended for the lab.
