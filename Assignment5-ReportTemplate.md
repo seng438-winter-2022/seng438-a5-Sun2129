@@ -11,7 +11,7 @@
 
 # Introduction
 
-The Purpose of this lab is the analysis of integration testing for a hypothetical system when providing its failure data using various reliability assessment tools such as Reliability growth testing and Reliability assessment. We first used C-SFRAT and CASRE to analyze the test data to create various models to get the laplace test and the best models that fit the failure data provided. This was done using a Reliability Demonstration Chart (RDC).
+The Purpose of this lab is the analysis of integration testing for a hypothetical system when providing its failure data using various reliability assessment tools such as Reliability growth testing and Reliability assessment. We first used C-SFRAT and CASRE to input and analyze the test data provided to get the laplace test and the best models that fit the failure data provided. Through these programs, we were able to create a failure rate graph, a failure intensity graph, and a reliabilty growth graph.  This was done using a Reliability Demonstration Chart (RDC).
 
 # Assessment Using Reliability Growth Testing 
 When deciding the best models to use to represent our data, we had to pick between a multitude of different models that ranged from accurately describing our data to being incredibly incorrect in terms of the representation. As a result, we used the log likelihood when doing model comparison as we believed that it affected other factors that determine the best model to use such as AIC, BIC, SSE, and PSSE. While doing this comparison, we kept all of the metric weights of AIC, BIC, SSE, and PSSE to 1. This was a part of the result of the model comparison (using C-SFRAT):
