@@ -29,7 +29,7 @@ Lastly, this is the reliability plot of the data set provided. We chose a subset
 ![reliability](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/Reliability.png)
 
 A laplace test was conducted on the failure data provided. This is the resulting picture (using CASRE):
-![laplace](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/Laplace.png)
+![laplace](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/Laplace.png)  
 As every x value with a Laplace test value lower than -2 is a relevant part of the dataset, we believe that the relevant subset of this data is from 0-18 test interval number.
 
 
