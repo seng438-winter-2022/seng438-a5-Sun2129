@@ -1,1 +1,0 @@
-Install DOSBOX, then click "inst.bat" to install CASRE
