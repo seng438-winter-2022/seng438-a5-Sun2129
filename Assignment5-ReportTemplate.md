@@ -32,7 +32,7 @@ A laplace test was conducted on the failure data provided. This is the resulting
 As every x value with a Laplace test value lower than -2 is a relevant part of the dataset, we believe that the relevant subset of this data is from 0-18 test interval number.
 
 Decision Making Given a Target Failure Rate:
-
+A target failure rate essentially sets the amount of failures that a system can have in a certain period of time. Thus, it is incredibly important to meet this failure rate in order to ensure that a system properly functions and meets the user’s needs. Therefore, it is important to increase the amount of testing that is done to ensure a greater amount of errors can be caught, which will lead to less overall failures and a smaller failure rate. At the same time, it may be useful to stop pushing patches or features to a system that has not yet met its target failure rate as it may greatly increase the amount of failures in the system and subsequently the failure rate. Instead, all focus can be put on thoroughly testing the system until the system has met the target failure rate.
 
 Advantages of Reliability Growth Analysis:  
 One advantage of reliability growth analysis is that it can be used to predict potential failures in the future. This is very important, as the developers then know what to expect and that they should be prepared for these types of failures to occur. Reliability growth analysis also allows for us to assess how reliable a system is over time, and how many failures/errors occur throughout the process. 
@@ -41,7 +41,8 @@ Disadvantages of Reliability Growth Analysis:
 One disadvantage of the reliability growth analysis is that when a failure/error is fixed, it could introduce more potential failures and thus the graph would not be able to model that accurately as it will not know what changes were made that introduced new failures. Another disadvantage is that a software can be used in multiple different ways, and the failures that occur in one way might not be present in another. Thus, this creates a lot of complications with trying to create one accurate model to depict the failures over time.
 
 # Assessment Using Reliability Demonstration Chart 
-We evaluated the acceptance of the system using different MTTFMin values. The first one shown is the original MTTFMin value that we decided to use. This was calculated using the total number of failures and the total execution time. The formula used was total execution time/total number of failures.    
+We evaluated the acceptance of the system using different MTTFMin values. The first one shown is the original MTTFMin value that we decided to use. This was calculated using the total number of failures and the total execution time. The formula used was total execution time/total number of failures. We decided on the MTTFmin by first calculating our cumulative failure count, as we want to determine how many failures occurred over the entire occurrence. Then we calculated our total execution time using the E column from the dataset provided. Once that was found, we divided the total execution time (the whole time everything was running) over the cumulative failure count. The total execution time was 54.3 hours, and the total failure count was 92. 54.3hours/92 failures yielded a 0.59 hours/failure MTTFmin which was what we used. This makes sense to find it this way since it uses the total failures occurring in the whole execution time.  
+
 This is the chart of MTTFMin (using SRTAT):  
 ![MTTFMin](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/MTTFMin%20Graph.png)
 
@@ -52,9 +53,10 @@ This is the chart of the half of MTTFMin(using SRTAT):
 ![Half MTTFMin](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/Half%20MTTFMin%20Graph.png)
 
 Advantages of Reliability Demonstration Chart:  
-
+An advantage of using reliability demonstration chart is that RDC analysis is a time and cost efficient method of analyzing the reliability of a system. Additionally, RDC is an easier way of determining the reliability of a system under test. Tools can be used to 
 
 Disadvantages of Reliability Demonstration Chart:  
+For Disadvantages, RDC does not provide a quantitative number for the reliability of the system under test. Likewise,a Lot of experimentation and guess work to determine the value of confidence and MTTF, which becomes very tedious.
 
 # 
 
