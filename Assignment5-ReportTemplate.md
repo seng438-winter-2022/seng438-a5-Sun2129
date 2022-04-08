@@ -37,10 +37,10 @@ We evaluated the acceptance of the system using different MTTFMin values. The fi
 This is the chart of MTTFMin (using SRTAT):  
 ![MTTFMin](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/MTTFMin%20Graph.png)
 
-This is the chart of the double of MTTFMin (using SRTAT):
+This is the chart of the double of MTTFMin (using SRTAT):  
 ![Double MTTFMin](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/Double%20MTTFMin%20Graph.png)
 
-This is the chart of the half of MTTFMin(using SRTAT):
+This is the chart of the half of MTTFMin(using SRTAT):  
 ![Half MTTFMin](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/Half%20MTTFMin%20Graph.png)
 # 
 
