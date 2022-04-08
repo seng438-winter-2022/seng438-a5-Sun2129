@@ -53,10 +53,10 @@ This is the chart of the half of MTTFMin(using SRTAT):
 ![Half MTTFMin](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/Half%20MTTFMin%20Graph.png)
 
 Advantages of Reliability Demonstration Chart:  
-An advantage of using reliability demonstration chart is that RDC analysis is a time and cost efficient method of analyzing the reliability of a system. Additionally, RDC is an easier way of determining the reliability of a system under test. Tools can be used to 
+An advantage of using reliability demonstration chart is that RDC analysis is a time and cost efficient method of analyzing the reliability of a system. Additionally, RDC is an easier way of determining the reliability of a system under test. Tools can be used to greatly ease this process and make finding the reliability of a system easy.
 
 Disadvantages of Reliability Demonstration Chart:  
-For Disadvantages, RDC does not provide a quantitative number for the reliability of the system under test. Likewise,a Lot of experimentation and guess work to determine the value of confidence and MTTF, which becomes very tedious.
+For Disadvantages, RDC does not provide a quantitative number for the reliability of the system under test. Likewise, a Lot of experimentation and guess work is needed to determine the value of confidence and MTTF, which becomes very tedious.
 
 # 
 
