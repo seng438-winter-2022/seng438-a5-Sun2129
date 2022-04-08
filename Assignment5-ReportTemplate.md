@@ -31,7 +31,7 @@ A laplace test was conducted on the failure data provided. This is the resulting
 ![laplace](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/Laplace.png)    
 As every x value with a Laplace test value lower than -2 is a relevant part of the dataset, we believe that the relevant subset of this data is from 0-18 test interval number.
 
-Decision Making Given a Target Failure Rate:
+Decision Making Given a Target Failure Rate:  
 A target failure rate essentially sets the amount of failures that a system can have in a certain period of time. Thus, it is incredibly important to meet this failure rate in order to ensure that a system properly functions and meets the user’s needs. Therefore, it is important to increase the amount of testing that is done to ensure a greater amount of errors can be caught, which will lead to less overall failures and a smaller failure rate. At the same time, it may be useful to stop pushing patches or features to a system that has not yet met its target failure rate as it may greatly increase the amount of failures in the system and subsequently the failure rate. Instead, all focus can be put on thoroughly testing the system until the system has met the target failure rate.
 
 Advantages of Reliability Growth Analysis:  
