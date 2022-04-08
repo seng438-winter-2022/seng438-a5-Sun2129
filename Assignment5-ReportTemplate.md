@@ -34,10 +34,10 @@ As every x value with a Laplace test value lower than -2 is a relevant part of t
 Decision Making Given a Target Failure Rate:
 
 
-Advantages of Reliability Growth Analysis:
+Advantages of Reliability Growth Analysis:  
 One advantage of reliability growth analysis is that it can be used to predict potential failures in the future. This is very important, as the developers then know what to expect and that they should be prepared for these types of failures to occur. Reliability growth analysis also allows for us to assess how reliable a system is over time, and how many failures/errors occur throughout the process. 
 
-Disadvantages of Reliability Growth Analysis:
+Disadvantages of Reliability Growth Analysis:  
 One disadvantage of the reliability growth analysis is that when a failure/error is fixed, it could introduce more potential failures and thus the graph would not be able to model that accurately as it will not know what changes were made that introduced new failures. Another disadvantage is that a software can be used in multiple different ways, and the failures that occur in one way might not be present in another. Thus, this creates a lot of complications with trying to create one accurate model to depict the failures over time.
 
 
