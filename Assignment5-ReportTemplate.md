@@ -33,7 +33,15 @@ As every x value with a Laplace test value lower than -2 is a relevant part of t
 
 
 # Assessment Using Reliability Demonstration Chart 
+We evaluated the acceptance of the system using different MTTFMin values. The first one shown is the original MTTFMin value that we decided to use. This was calculated using the total number of failures and the total execution time. The formula used was total execution time/total number of failures.
+This is the chart of MTTFMin (using SRTAT):
+![MTTFMin](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/MTTFMin%20Graph.png)
 
+This is the chart of the double of MTTFMin (using SRTAT):
+![Double MTTFMin](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/Double%20MTTFMin%20Graph.png)
+
+This is the chart of the half of MTTFMin(using SRTAT):
+![Half MTTFMin](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/Half%20MTTFMin%20Graph.png)
 # 
 
 # Comparison of Results
