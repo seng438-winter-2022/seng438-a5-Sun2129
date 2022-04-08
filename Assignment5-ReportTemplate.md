@@ -51,13 +51,15 @@ This is the chart of the double of MTTFMin (using SRTAT):
 This is the chart of the half of MTTFMin(using SRTAT):  
 ![Half MTTFMin](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/Half%20MTTFMin%20Graph.png)
 
-Advantages of Reliability Demonstration Chart:
+Advantages of Reliability Demonstration Chart:  
 
-Disadvantages of Reliability Demonstration Chart:
+
+Disadvantages of Reliability Demonstration Chart:  
 
 # 
 
 # Comparison of Results
+Both results show us a similar trend with the time intervals and failures as time goes on. As the time interval continues to increase, the cumulative failure count also increases. Our results on part one showed us that the failure intensity spiked highly near 2 and around 20 on the x axis. The results from the second part showed us that MTTF, which came out to be 0.59 hours/failure. This means that there is 0.59 hours between each failure on average. Overall, the results of the two techniques yielded a similar conclusion and analysis of the failures occurring over the time intervals, and the second part also showed us the acceptable/rejectable rates.
 
 # Discussion on Similarity and Differences of the Two Techniques
 A key difference between these two techniques is that both the methods used the same data to produce a different output/graph to convey the information. A similarity between the two is that they both are based on inter failure times and the target failure rate, or the MTTF. Another difference is that the reliability growth analysis relies on failure count as well, whereas the demonstration chart does not. One more similarity is that they are both modelling the reliability of a system over time, with respect to its failures
