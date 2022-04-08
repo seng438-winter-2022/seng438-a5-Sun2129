@@ -40,9 +40,8 @@ One advantage of reliability growth analysis is that it can be used to predict p
 Disadvantages of Reliability Growth Analysis:  
 One disadvantage of the reliability growth analysis is that when a failure/error is fixed, it could introduce more potential failures and thus the graph would not be able to model that accurately as it will not know what changes were made that introduced new failures. Another disadvantage is that a software can be used in multiple different ways, and the failures that occur in one way might not be present in another. Thus, this creates a lot of complications with trying to create one accurate model to depict the failures over time.
 
-
 # Assessment Using Reliability Demonstration Chart 
-We evaluated the acceptance of the system using different MTTFMin values. The first one shown is the original MTTFMin value that we decided to use. This was calculated using the total number of failures and the total execution time. The formula used was total execution time/total number of failures.  
+We evaluated the acceptance of the system using different MTTFMin values. The first one shown is the original MTTFMin value that we decided to use. This was calculated using the total number of failures and the total execution time. The formula used was total execution time/total number of failures.    
 This is the chart of MTTFMin (using SRTAT):  
 ![MTTFMin](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/MTTFMin%20Graph.png)
 
@@ -51,6 +50,11 @@ This is the chart of the double of MTTFMin (using SRTAT):
 
 This is the chart of the half of MTTFMin(using SRTAT):  
 ![Half MTTFMin](https://github.com/seng438-winter-2022/seng438-a5-Sun2129/blob/main/Graph%20Pictures/Half%20MTTFMin%20Graph.png)
+
+Advantages of Reliability Demonstration Chart:
+
+Disadvantages of Reliability Demonstration Chart:
+
 # 
 
 # Comparison of Results
